@@ -7,5 +7,7 @@ include_files:
   - bin/release
   - bin/supply
   - bin/finalize
+  - scripts/install_go.sh
+  - scripts/install_nodejs.sh
   - manifest.yml
   - README.md
